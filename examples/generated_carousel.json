@@ -1,0 +1,68 @@
+{
+  "carousel_title": "Manifestación Mágica para Mortales Exigentes",
+  "carousel_description": "Descubre el arte de manifestar con elegancia, ironía y poder. Porque mereces magia a tu altura.",
+  "slides": [
+    {
+      "slide_number": 1,
+      "headline": "Bienvenida al Ritual del Lujo",
+      "body_text": "Manifestar no es para cualquiera, es para los que exigen más que simples deseos.",
+      "visual_concept": "Un libro antiguo lujoso abierto, con símbolos místicos dorados y un fondo de terciopelo negro.",
+      "design_notes": "Usar colores negros y dorados con textura de terciopelo, tipografía serif elegante para el título y sans-serif fina para el texto.",
+      "text_color": "#D4AF37",
+      "background_color": "#0B0B0B"
+    },
+    {
+      "slide_number": 2,
+      "headline": "Paso 1: Claridad Intencional",
+      "body_text": "Define tu deseo con precisión quirúrgica. Recuerda: ‘La energía no miente, solo juzga’.",
+      "visual_concept": "Una lupa dorada sobre un papel con una lista de deseos escritos con caligrafía fina en tinta negra.",
+      "design_notes": "Mantener esquema negro y dorado, añadir líneas delicadas y detalles que evoquen precisión y sofisticación.",
+      "text_color": "#D4AF37",
+      "background_color": "#1C1C1C"
+    },
+    {
+      "slide_number": 3,
+      "headline": "Paso 2: Energía Refinada",
+      "body_text": "No es solo pensar, es sentir con lujo. La magia es mejor con actitud ‘Brujería Luxe’.",
+      "visual_concept": "Una mano femenina con manicura impecable sosteniendo una gema brillante con aura dorada.",
+      "design_notes": "Usar tonos dorados y acentos en blanco perlado, tipografía elegante cursiva para la frase clave.",
+      "text_color": "#FFFFFF",
+      "background_color": "#2A2A2A"
+    },
+    {
+      "slide_number": 4,
+      "headline": "Paso 3: Acción con Estilo",
+      "body_text": "Manifestar requiere movimientos. Recuerda: ‘Empoderamiento es el mejor hechizo’.",
+      "visual_concept": "Zapatos de tacón sobre un suelo con runas grabadas, destacando poder y glamour.",
+      "design_notes": "Combinar negro mate con dorado brillante, usar negritas para enfatizar frases clave, mantener tipografía sofisticada.",
+      "text_color": "#D4AF37",
+      "background_color": "#0B0B0B"
+    },
+    {
+      "slide_number": 5,
+      "headline": "El Secreto Final",
+      "body_text": "Confía en tu poder, no en la suerte. Las brujas de verdad crean su destino.",
+      "visual_concept": "Un pentáculo dorado iluminado sobre un fondo de terciopelo negro con estrellas sutiles.",
+      "design_notes": "Fondo negro profundo con detalles dorados brillantes, tipografía serif clásica con toque moderno.",
+      "text_color": "#D4AF37",
+      "background_color": "#0B0B0B"
+    },
+    {
+      "slide_number": 6,
+      "headline": "¿Lista para Manifestar con Elegancia?",
+      "body_text": "Únete a Brujería Luxe y transforma tu magia en poder palpable. Es tu turno.",
+      "visual_concept": "Una elegante invitación con marco dorado, fondo negro y un botón estilizado que dice ‘Activa tu Brujería’.",
+      "design_notes": "Usar colores de marca, tipografía impactante sin perder sofisticación, incluir elementos brillantes para llamar la atención.",
+      "text_color": "#FFFFFF",
+      "background_color": "#1C1C1C"
+    }
+  ],
+  "cta_text": "Desliza, manifiesta y únete a la élite mágica de Brujería Luxe. Tu poder, tu lujo.",
+  "hashtags": [
+    "#BrujeríaLuxe",
+    "#ManifestaciónMágica",
+    "#PoderConEstilo",
+    "#MagiaParaExigentes",
+    "#EmpoderamientoMágico"
+  ]
+}

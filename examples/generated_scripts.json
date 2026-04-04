@@ -1,0 +1,34 @@
+{
+  "clip_spanish": {
+    "title": "Exquisita venganza con más magia, menos esfuerzo",
+    "script": "¡Hola, brujitas de lujo! ¿Tu ex todavía cree que puede verte caer? Pues hoy le mostramos cómo hacer que se arrepienta, pero con estilo y sin despeinarse. Porque en BRUJERÍA LUXE sabemos que la verdadera belleza hechiza y la manifestación con estilo es nuestro mejor conjuro. Olvídate de juegos baratos, es hora de un poco de luxuria paranormal para que él se pregunte qué pasó. Recuerda, más magia, menos esfuerzo. ¿Lista para tu ritual de poder? ¡Dale like y comparte este hechizo con tus hermanas de luz!",
+    "duration_seconds": 45,
+    "subtitles": [
+      {"time": "0:00-0:04", "text": "¡Hola, brujitas de lujo!"},
+      {"time": "0:04-0:10", "text": "¿Tu ex cree que puede verte caer?"},
+      {"time": "0:10-0:16", "text": "Le mostraremos cómo se arrepiente, con estilo y sin esfuerzo."},
+      {"time": "0:16-0:22", "text": "En BRUJERÍA LUXE, belleza que hechiza y manifestación con estilo."},
+      {"time": "0:22-0:30", "text": "Olvídate de juegos baratos, es hora de luxuria paranormal."},
+      {"time": "0:30-0:38", "text": "Más magia, menos esfuerzo. ¿Lista para tu ritual de poder?"},
+      {"time": "0:38-0:45", "text": "Dale like y comparte este hechizo con tus hermanas de luz!"}
+    ],
+    "cta": "Dale like y comparte para que más brujitas vivan la magia con estilo.",
+    "caption": "#BrujeríaLuxe #MásMagiaMenosEsfuerzo #BellezaQueHechiza #LuxuriaParanormal #ManifestaciónConEstilo #PoderFemenino"
+  },
+  "clip_english": {
+    "title": "Exquisite Revenge with More Magic, Less Effort",
+    "script": "Hello, luxe witches! Is your ex still thinking he can see you fall? Today, we're showing him how to regret it — with style and without breaking a sweat. Because at BRUJERÍA LUXE, we know true beauty enchants, and manifestation with style is our best spell. Forget cheap tricks, it’s time for a little paranormal luxury to make him wonder what hit him. Remember, more magic, less effort. Ready for your power ritual? Like and share this spell with your sisters of light!",
+    "duration_seconds": 45,
+    "subtitles": [
+      {"time": "0:00-0:04", "text": "Hello, luxe witches!"},
+      {"time": "0:04-0:10", "text": "Is your ex still thinking he can see you fall?"},
+      {"time": "0:10-0:16", "text": "We'll show him how to regret it, with style and ease."},
+      {"time": "0:16-0:22", "text": "At BRUJERÍA LUXE, beauty enchants and manifestation with style rules."},
+      {"time": "0:22-0:30", "text": "Forget cheap tricks, time for paranormal luxury."},
+      {"time": "0:30-0:38", "text": "More magic, less effort. Ready for your power ritual?"},
+      {"time": "0:38-0:45", "text": "Like and share this spell with your sisters of light!"}
+    ],
+    "cta": "Like and share so more witches can live magic with style.",
+    "caption": "#BrujeríaLuxe #MoreMagicLessEffort #BeautyThatEnchants #ParanormalLuxury #ManifestationWithStyle #FemalePower"
+  }
+}
