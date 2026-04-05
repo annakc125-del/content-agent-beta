@@ -1,0 +1,51 @@
+{
+  "metricas_48h": {
+    "leads_extraidos": 5,
+    "leads_calificados": 5,
+    "mensajes_enviados": 5,
+    "respuestas_recibidas": 5,
+    "llamadas_agendadas": 1,
+    "ventas_cerradas": 1,
+    "revenue_total": 2500
+  },
+  "pipeline_final": [
+    {
+      "nombre": "David Torres",
+      "plataforma": "Instagram",
+      "url": "instagram.com/davidtorres_fitness",
+      "bio": "Coach de alto rendimiento para CEOs. Podcast semanal 'Cuerpo y Mente'.",
+      "seguidores": 85000,
+      "mercado": "USA Hispano",
+      "actividad_shorts": "Media",
+      "puntuacion": 70,
+      "calificacion": "Tibio",
+      "pain_point": "Tiene contenido largo y audiencia, pero actividad media en formatos cortos limita su alcance.",
+      "angulo_venta": "Ofrecer optimización y aumento de su presencia en formatos cortos para maximizar reutilización y engagement.",
+      "prueba_valor": "Clip de 45s sobre 'Coach de alto rendimiento para CEOs' con subtítulos dinámicos estilo Hormozi y tu paleta de colores.",
+      "mensajes_outreach": {
+        "linkedin_es": "David, noto que tu contenido largo es sólido, pero la actividad en reels/shorts limita tu alcance. Tengo un clip de 45s con subtítulos estilo Hormozi que maximiza engagement y reutilización. ¿Quieres verlo rápido para evaluar si te sirve?",
+        "email_es_asunto": "Maximiza tu alcance en formatos cortos con contenido optimizado",
+        "email_es_cuerpo": "David, tu podcast y contenido largo son valiosos, pero la actividad media en reels/shorts reduce tu alcance potencial. Te preparé un clip de 45s con subtítulos dinámicos estilo Hormozi y tu paleta de colores, para aumentar engagement y reutilización. ¿Quieres que te lo envíe para que lo revises sin compromiso?",
+        "linkedin_en": "David, your long-form content is strong, but low activity in reels/shorts limits your reach. I created a 45s clip with Hormozi-style subtitles to boost engagement and reuse. Want to see it quickly to assess if it fits?",
+        "email_en_asunto": "Boost your short-form reach with optimized content",
+        "email_en_cuerpo": "David, your podcast and long-form content are valuable, but medium activity in reels/shorts limits your potential reach. I prepared a 45s clip with dynamic Hormozi-style subtitles and your color palette to increase engagement and reuse. Want me to send it over for a no-commitment review?"
+      },
+      "estado_pipeline": "Cerrado Ganado",
+      "respuesta_lead": "Me interesa, ¿podemos hablar mañana?",
+      "interaccion_gestor": {
+        "clasificacion": "Interesado",
+        "respuesta_gestor": "¡Perfecto, David! Aquí te dejo mi calendario para que elijas el mejor horario: calendly.com/tu-agencia/10min. ¿Qué hora te viene bien?",
+        "accion_siguiente": "Agendar Llamada",
+        "estado_pipeline": "Agendado"
+      },
+      "objecion_final": "¿Puedo pagar a plazos?",
+      "resultado_cierre": {
+        "guion_cierre": "Entiendo que quieras pagar a plazos, David, pero cada día que pasa sin optimizar tus formatos cortos estás perdiendo alcance y clientes potenciales. ¿Qué tarjeta usamos para empezar hoy y asegurar que tu contenido crezca como debe?",
+        "enlace_pago": "stripe.com/pay/growth-paquete",
+        "venta_cerrada": true,
+        "revenue_generado": 2500,
+        "estado_pipeline": "Cerrado Ganado"
+      }
+    }
+  ]
+}

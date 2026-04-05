@@ -16,11 +16,14 @@ El sistema está compuesto por 3 agentes principales:
 
 ## 📁 Estructura del Proyecto
 
-*   `/agents`: Código fuente en Python de los 3 agentes.
+*   `/agents`: Código fuente en Python de los 3 agentes de creación de contenido.
+*   `/agents/sales`: Código fuente de los 4 agentes de ventas (Prospector, Promotor, Gestor, Closer) y el Orquestador de Ventas.
 *   `/prompts`: Prompts del sistema utilizados por los agentes (Orquestador y Creador de Narrativa).
 *   `/docs`: Documentación detallada, incluyendo el diseño de la arquitectura Beta y ejemplos de entrega.
 *   `/examples`: Archivos JSON de ejemplo generados por el sistema (scripts y carruseles).
-*   `main.py`: Script principal que orquesta el flujo de trabajo.
+*   `/sales_examples`: Archivos JSON de ejemplo generados por el flujo de ventas.
+*   `main.py`: Script principal que orquesta el flujo de creación de contenido.
+*   `sales_main.py`: Script principal que orquesta el flujo de ventas (100k en 48h).
 *   `.env.example`: Plantilla de variables de entorno.
 
 ## ⚙️ Instalación y Uso
@@ -54,12 +57,17 @@ El sistema está compuesto por 3 agentes principales:
 4.  **Preparar archivos de entrada:**
     Coloca tu video fuente, transcripción y manual de marca en la carpeta `examples/` (o actualiza las rutas en el archivo `.env`).
 
-5.  **Ejecutar el flujo:**
+5.  **Ejecutar el flujo de creación de contenido:**
     ```bash
     python main.py
     ```
 
-Los resultados (archivos JSON y videos procesados) se guardarán en la carpeta `output/`.
+6.  **Ejecutar el flujo de ventas (100k en 48h):**
+    ```bash
+    python sales_main.py
+    ```
+
+Los resultados (archivos JSON y videos procesados) se guardarán en la carpeta `output/` y `sales_examples/`.
 
 ## 🗺️ Roadmap
 
